@@ -2,10 +2,7 @@
 
 Hello! I'm Phung Tran Mai Ha, you can call me Jane, a passionate and motivated aspiring software developer looking to kick-start my career through an internship opportunity. I'm committed to learning and contributing in the world of technology.
 
-🌍 I'm currently pursuing my Information Technology - Front End - at FPT University, and my journey into the world of programming began during my studies. I'm excited about:
-
-- 💡 [Specific projects or coursework that showcase your skills]
-- 🌐 [Any relevant internships or projects you've worked on]
+🌍 I'm currently pursuing my Information Technology - Front End - at FPT University, and my journey into the world of programming began during my studies. 
 
 I'm deeply committed to personal and professional growth. GitHub is my platform for sharing my coding journey, collaborating on exciting projects, and connecting with like-minded individuals. I'm eager to contribute to open-source projects and actively expand my knowledge.
 
