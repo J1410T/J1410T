@@ -1,18 +1,75 @@
-# 💫 About Me:
-👨‍💻 Hello, I'm Phung Tran Mai Ha and you can call me Jane, and I'm on a journey to create meaningful software solutions and foster innovation. Currently pursuing a degree in Web Development at FPT University, I've been nurturing my love for coding and tech.<br><br>💡 My journey in web development has equipped me with a strong foundation in HTML, CSS, and JavaScript, as well as experience with popular front-end and back-end framework like React. I love crafting responsive, pixel-perfect websites and applications that engage and delight users.<br><br>🚀 GitHub is where my passion for open source and collaboration finds its home. I've contributed to projects like Management Project and believe in the power of sharing knowledge and collectively pushing the boundaries of technology.<br><br>💡 Solving problems is what fuels me. I'm a problem solver by nature, thriving in situations that demand creative thinking and a methodical approach. My goal is to make technology accessible, useful, and enjoyable for everyone.<br><br>🌎 Beyond the screen, I prefer watching fiction films to maintain a balanced and inspired life. I'm eager to embark on this journey as a Front-End intern, ready to learn, grow, and make a meaningful impact on the software development community.<br><br>📧 Reach out to me at janetran2003@gmail.com or connect with me on LinkedIn that I put below. Let's collaborate and innovate together.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello Wolrd！+👋;Welcome to my Github profile！;I'm Jane - a web developer and UX/UI" />
+</div>
+
+<br/>
+
+<img align="right" alt="编程动图" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpcDN3b2k5dHR5YWkwaTBlYWlnZG0xeGlieW9mcms1YmY3cjg2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" width="240"/>
+
+### 👨‍💻 About Me:
+
+- 🔭 Me: Currently pursuing a degree in Web Development at University, I've been nurturing my love for coding and tech
+- 🌱 Tech: TypeScript, JavaScript, Java | Next.js, React.js 
+- 💡 Hobby: I love building responsive, pixel-perfect experiences that engage users and make technology more accessible, intuitive, and enjoyable for everyone.
+- 🎯 Goal: I'm eager to embark on this journey as a Front-End intern, ready to learn, grow, and make a meaningful impact on the software development community.
+- ⚡ Reach out to me at Gmail or connect with me on LinkedIn that I put below. Let's collaborate and innovate together.
+
+<br/>
+
+### 🛠️ Languages and Tools:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,figma,flutter,firebase,java,js,mongodb,nextjs,nodejs,react,tailwind,ts,vercel,vite" />
+  </a>
+</div>
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J1410T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1410T&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🐍 Contribution Graph:
+
+![Contribution Statistics](https://raw.githubusercontent.com/J1410T/J1410T/refs/heads/output/github-contribution-grid-snake.svg)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jane.tran.141003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jane_ptmh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janetran141003) 
+### 📈 Activity Chart:
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=J1410T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=J1410T&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J1410T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=J1410T&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=J1410T&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🤝 Contact Me:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://github.com/J1410T">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:janetran2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/jane.tran.141003">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badgelogo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jane_ptmh">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badgelogo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/janetran141003">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badgelogo=Linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+### 💭 Quote
+
+<div align="center">
+  <i>「Don't let me catch the opportunity. Once I do, I will definitely seize it with my all might」</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
